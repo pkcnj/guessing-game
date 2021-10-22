@@ -4,7 +4,7 @@ Completed project hosted on: https://pkcnj.github.io/guessing-game/
 ## Overview:
 This game tracks the number of guesses and letters guessed.
 
-## Technologies used:
+## Languages Used:
 * HTML5
 * CSS
 * Vanilla JavaScript
