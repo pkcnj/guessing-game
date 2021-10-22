@@ -1,5 +1,10 @@
-# guess-the-word
-Completed project hosted on: https://pkcnj.github.io/guess-the-word/
+# Guess the Word
+Completed project hosted on: https://pkcnj.github.io/guessing-game/
 
-## Project Goals:
-* This game tracks the number of guesses and letters guessed.
+## Overview:
+This game tracks the number of guesses and letters guessed.
+
+## Technologies used:
+* HTML5
+* CSS
+* Vanilla JavaScript
